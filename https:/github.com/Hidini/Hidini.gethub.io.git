@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang= "ru">
+	<head>
+		<meta Content-Type: text/html; charset="utf-8">
+		<title> Резюме IT </title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+<body>
+	  <div class = "header" id="header">
+	<h1 class= "h1"> Михеева Дарья </h1>
+	<h2 class= "header-title"> Веб- разработка </h2>
+	
+	<p>
+		<a href= "mailto:dasha-2210@mail.ru"> dasha-2210@mail.ru </a>,
+		<a href = "https://github.com/Hidini/Dasha"> Github.com/Hidini/Dasha </a>
+	</p>	
+	</div id="header">
+<div id="main">	
+	<ul> Долгое время думала,что тут написать, но ничего </ul>
+	<ul><b> А еще я милашка </b></ul>
+	<section>
+	<h2 class="h2" > Опыт работы </h2>
+	<div class = "main">
+		<h3> Сторожила ада </h3>
+		<p> Кормежка цербера </p>
+		</div>
+		</section>
+	<section>
+		<h2 class = "h2"> Образование </h2>
+		<div class="main">
+			<h3>Высшее педагогическое от Сатаны </h3>
+		</div>
+	</section>
+</div id="main">
+<div class="footer" id="footer">
+	<p><b> Дарья</b></p> 
+	 <p>г.Ульяновск</p> 
+	 <p>89370395412</p> 
+	 <a href= "mailto:dasha-2210@mail.ru"> dasha-2210@mail.ru </a>
+</div id="footer">
+</body>
+</html>
